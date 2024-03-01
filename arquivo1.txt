@@ -1,1 +1,2 @@
-primeiro parágrafo
+primeiro parágrafo.
+segundo  parágrafo.
